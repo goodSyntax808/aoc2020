@@ -16,3 +16,4 @@ pub fn read_nums(filename: &str) -> Result<Vec<isize>> {
 }
 
 pub mod day1;
+pub mod day2;
